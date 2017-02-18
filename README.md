@@ -9,6 +9,7 @@ I saw a lack of native chrome app support for the amazing Toodledo program, so I
 
 # Chrome Web Store Link:
 https://chrome.google.com/webstore/detail/toodledo/dfdhbdeglbgndaidoemggjfkeopfcedd
+*1000+ users and counting*
 
 # Screenshot:
 
